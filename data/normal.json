@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "tables": {
+    "instances": {
+      "file": "normal-instances.jsonl",
+      "sha256": "1c4121cdebf81d5a93955e336ebc45520529345d1d51264a3408403c4a683447",
+      "bytes": 121,
+      "rows": 1,
+      "fields": [
+        "id",
+        "study",
+        "series",
+        "sop",
+        "frames",
+        "rows",
+        "columns",
+        "bits"
+      ]
+    },
+    "requested": {
+      "file": "normal-requested.jsonl",
+      "sha256": "7e8c34258c75fd3a5fd66313db70b0aaf594650d944b52b2e07a1ad2e6573a2d",
+      "bytes": 49,
+      "rows": 1,
+      "fields": [
+        "id",
+        "instance",
+        "frames"
+      ]
+    }
+  }
+}

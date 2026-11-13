@@ -1,0 +1,7 @@
+{
+  "status": 200,
+  "generation": "g1",
+  "etag": "\"frames-v1\"",
+  "content_type": "multipart/related; type=\"application/octet-stream\"; boundary=frame-boundary",
+  "metadata_etag": "\"meta-v1\""
+}

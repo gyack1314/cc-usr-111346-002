@@ -1,0 +1,11 @@
+--frame-boundary
+Content-Type: application/octet-stream; transfer-syntax=1.2.840.10008.1.2.1
+Content-Location: https://imaging.invalid/studies/1.2.3/series/1.2.3.4/instances/1.2.3.4.5/frames/2
+
+
+--frame-boundary
+Content-Type: application/octet-stream; transfer-syntax=1.2.840.10008.1.2.1
+Content-Location: https://imaging.invalid/studies/1.2.3/series/1.2.3.4/instances/1.2.3.4.5/frames/1
+
+
+--frame-boundary--

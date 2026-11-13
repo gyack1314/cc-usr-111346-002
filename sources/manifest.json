@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/metadata.json",
+      "bytes": 731,
+      "sha256": "07d83920a18c67901259685555610205eb4f3f3e447b7b9a113ade09c1c64f76"
+    },
+    {
+      "path": "sources/frames.multipart",
+      "bytes": 424,
+      "sha256": "38e86d068f701c121cf4bfdf642d2f43ce7a951c50df674d63557142b857eee3"
+    },
+    {
+      "path": "sources/response.json",
+      "bytes": 201,
+      "sha256": "a210aed31f6c262a7ebb223bb2b9b74babf0176832dd73980a0ad11496b302a7"
+    },
+    {
+      "path": "sources/expected-frames.json",
+      "bytes": 56,
+      "sha256": "9f97f1d8323b2fe45c191e253273183ea05d8ee7709712ece00061fbd4e4b7e2"
+    }
+  ]
+}

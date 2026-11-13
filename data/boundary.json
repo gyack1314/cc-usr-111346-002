@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "tables": {
+    "instances": {
+      "file": "boundary-instances.jsonl",
+      "sha256": "1c4121cdebf81d5a93955e336ebc45520529345d1d51264a3408403c4a683447",
+      "bytes": 121,
+      "rows": 1,
+      "fields": [
+        "id",
+        "study",
+        "series",
+        "sop",
+        "frames",
+        "rows",
+        "columns",
+        "bits"
+      ]
+    },
+    "requested": {
+      "file": "boundary-requested.jsonl",
+      "sha256": "e394ec05a6417630e3f8a14dd6c9a0662a057d1aa1c8af359056644293f51dd8",
+      "bytes": 46,
+      "rows": 1,
+      "fields": [
+        "id",
+        "instance",
+        "frames"
+      ]
+    }
+  }
+}
